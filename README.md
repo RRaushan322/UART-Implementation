@@ -47,7 +47,6 @@ Top-level module for synthesizing a simple echo test with the UART components.
 
 UART Receiver Module:
 
-verilog
 module uart_rx(
     input                   clk          , // System clock input.
     input                   resetn       , // Active-low asynchronous reset.
